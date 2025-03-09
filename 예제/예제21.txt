@@ -1,0 +1,14 @@
+##▣ 예제21. 테블로 다운로드 
+
+1. 테블로 14일 평가판 다운로드  
+
+https://www.tableau.com/ko-kr/support/releases
+ 
+2. 테블로 퍼블릭 다운로드 
+
+https://tech-wikis.com/tableau-free-version-download/
+
+3. 테블로 퍼블릭 구글 드라이브 
+
+https://drive.google.com/file/d/19JBGS2OTyemgVq1GyfTM7T6hYaXUwwUr/view?usp=drive_link  
+

@@ -1,0 +1,3 @@
+##▣ 예제22. 테블로 데이터 셋 바로가기 
+
+테블로 데이터셋 바로가기: https://public.tableau.com/app/learn/sample-data
